@@ -1,0 +1,35 @@
+/*styles*/
+
+body {
+		background-color: teal;
+		color: white;
+		font-size: 1.1em;
+		font-family: Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+		display: inline;
+		padding: 4px;
+		color: white;
+		font-family: Verdana, sans-serif;
+		padding: 5px;
+}
+
+a {
+	color: white;
+}
+a:hover {   
+		color: white;
+		background-color: black;
+		text-decoration: underline;
+		font-size: 1.25em;
+}
+
+a:visited {
+	color: yellow;
+ }
+
+p {
+text-indent: 2em;
+font-family: Verdana, sans-serif;
+}
